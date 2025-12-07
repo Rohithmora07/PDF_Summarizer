@@ -1,0 +1,34 @@
+.stApp { background-color: #ff6a00; }
+.block-container { padding-top: 2rem; padding-bottom: 2rem; }
+.stTextArea textarea {
+    background-color: #fff7ed;
+    border-radius: 12px 12px 32px 32px;
+    border: 2px solid #c2410c;
+    color: #22223b;
+    font-size: 1rem;
+}
+.stFileUploader {
+    background-color: #fff7ed;
+    border-radius: 12px 12px 32px 32px;
+    border: 2px solid #c2410c;
+    padding: 10px;
+}
+.summary-card {
+    background: #fef3c7;
+    border-radius: 18px 18px 36px 36px;
+    border: 3px solid #c2410c;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 8px rgba(194,65,12,0.08);
+}
+.stButton>button {
+    background-color: #c2410c;
+    color: white;
+    border-radius: 10px 10px 24px 24px;
+    font-weight: bold;
+    transition: 0.2s;
+}
+.stButton>button:hover {
+    background-color: #7c2d12;
+    color: #fff;
+}
